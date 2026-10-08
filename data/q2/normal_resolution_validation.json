@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "blocks": 20,
+  "sources_each": 2048,
+  "stations_each": 3,
+  "original_mean_geom": [
+    50.15075819985833,
+    50.20725558190597
+  ],
+  "coarse_mean_geom": [
+    50.15075650933677,
+    50.207256422820606
+  ],
+  "normal_arc": 12,
+  "seed_source": 44127,
+  "seed_blocks": 44128
+}

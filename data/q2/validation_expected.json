@@ -1,0 +1,119 @@
+{
+  "taper_posterior": {
+    "n": 75000,
+    "p_le1000_analytic": 0.6315731301020543,
+    "empirical": 0.6302666666666666,
+    "rho_conditional_uniform_mean": 0.5003293818471759
+  },
+  "flat_posterior": {
+    "n": 75000,
+    "p_le1000_analytic": 0.4444382715363505,
+    "empirical": 0.44248,
+    "rho_conditional_uniform_mean": 0.500805658840682
+  },
+  "truth_containment": {
+    "n": 75000,
+    "failures": 0
+  },
+  "rao_blackwell_vs_full_MC": {
+    "difference": -0.0042861467914430676,
+    "paired_se": 0.0029776339743294677,
+    "n": 131072
+  },
+  "block_envelopes": [
+    {
+      "S": [
+        0,
+        0
+      ],
+      "q": [
+        870,
+        530
+      ],
+      "delta": 8,
+      "sources": 16,
+      "station_positions": 5
+    },
+    {
+      "S": [
+        0,
+        0
+      ],
+      "q": [
+        250,
+        2
+      ],
+      "delta": 15,
+      "sources": 16,
+      "station_positions": 5
+    },
+    {
+      "S": [
+        1501,
+        0
+      ],
+      "q": [
+        220,
+        190
+      ],
+      "delta": 4,
+      "sources": 16,
+      "station_positions": 5
+    }
+  ],
+  "same_location_and_no_information": true,
+  "q4_worst_witnesses": [
+    {
+      "feedback": "normal",
+      "beta_deg": 314.3528125526061,
+      "diameter_m": 98.06347549235316,
+      "sources_local": [
+        [
+          1415.9488913769223,
+          24.715479834021885
+        ],
+        [
+          1499.771542734587,
+          -26.178609655925268
+        ]
+      ],
+      "first_distances_m": [
+        1416.164580101819,
+        1500.0000000000002
+      ]
+    },
+    {
+      "feedback": "silent",
+      "beta_deg": null,
+      "diameter_m": 98.06319460666735,
+      "sources_local": [
+        [
+          5.000000100000079,
+          0.08727532638659596
+        ],
+        [
+          103.0450580645818,
+          -1.7986581790492262
+        ]
+      ],
+      "first_distances_m": [
+        5.000761740234851,
+        103.06075471671112
+      ]
+    }
+  ],
+  "passed": true,
+  "random_block_stress": {
+    "source_station_comparisons": 2880,
+    "blocks": 48,
+    "delta_m": [
+      0.5,
+      5,
+      20,
+      60,
+      150
+    ],
+    "passed": true
+  },
+  "endpoint_cases": 432
+}

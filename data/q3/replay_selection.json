@@ -1,0 +1,6 @@
+{
+  "rule": "Lower median of all 300 v26 episode averages; no filtering by improvement, success of first clear, or path appearance.",
+  "rank": 150,
+  "n": 300,
+  "index": 30280
+}

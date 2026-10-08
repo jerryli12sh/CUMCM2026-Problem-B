@@ -1,0 +1,77 @@
+{
+  "name": "boundary",
+  "scenario": {
+    "S": [
+      1501.0,
+      0.0
+    ],
+    "theta": 0.0
+  },
+  "best": {
+    "q": [
+      223.14636819269987,
+      -190.3712351518733
+    ],
+    "lo": 15.261887283208576,
+    "hi": 15.27683049282571,
+    "nodes": 622,
+    "silent": [
+      0.0,
+      0.0
+    ]
+  },
+  "global_lower_m": 15.194287470126463,
+  "F1_bounds": [
+    294.0394100341617,
+    294.04864372611667
+  ],
+  "rows": [
+    {
+      "epsilon": 0.01,
+      "threshold_m": 15.429598797753966,
+      "area_inner_m2": 29.553131726020112,
+      "area_outer_m2": 774.2920512217322,
+      "pending_area_m2": 744.7389194957121,
+      "global_ratio_bound": 1.0154868287236338
+    },
+    {
+      "epsilon": 0.02,
+      "threshold_m": 15.582367102682223,
+      "area_inner_m2": 529.592120530283,
+      "area_outer_m2": 1649.0647503119335,
+      "pending_area_m2": 1119.4726297816505,
+      "global_ratio_bound": 1.0255411537605015
+    },
+    {
+      "epsilon": 0.05,
+      "threshold_m": 16.040672017466996,
+      "area_inner_m2": 3435.256031832603,
+      "area_outer_m2": 5297.103330571879,
+      "pending_area_m2": 1861.8472987392759,
+      "global_ratio_bound": 1.0557041288711044
+    },
+    {
+      "epsilon": 0.1,
+      "threshold_m": 16.804513542108282,
+      "area_inner_m2": 11315.303075258664,
+      "area_outer_m2": 14086.204705890335,
+      "pending_area_m2": 2770.901630631669,
+      "global_ratio_bound": 1.105975754055443
+    },
+    {
+      "epsilon": 0.2,
+      "threshold_m": 18.33219659139085,
+      "area_inner_m2": 35001.54709102945,
+      "area_outer_m2": 39303.30094506898,
+      "pending_area_m2": 4301.75385403952,
+      "global_ratio_bound": 1.2065190044241192
+    }
+  ],
+  "evaluated_blocks": 44004,
+  "unprocessed_blocks": 0,
+  "minimum_side_m": 1.0,
+  "seconds": 486.4855921268463,
+  "numeric_status": "float64 geometric enclosures, not outward-rounded interval certification",
+  "full_domain_partition": true,
+  "bearing_node_budget": 1024
+}

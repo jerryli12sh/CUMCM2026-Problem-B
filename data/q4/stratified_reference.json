@@ -1,0 +1,132 @@
+{
+  "rule": "Given N=13, directional-source count is uniform on 1..13",
+  "actual_N": 13,
+  "statistics": {
+    "I": {
+      "v5": {
+        "mean": 410.7087353781065,
+        "mean95": [
+          408.41201918946746,
+          412.9797603450887
+        ],
+        "cases": 130,
+        "cleared_sources": 1690,
+        "sample_mean_le405": false
+      },
+      "simplified": {
+        "mean": 409.34155305798816,
+        "mean95": [
+          407.0024542355768,
+          411.66031396997045
+        ],
+        "cases": 130,
+        "cleared_sources": 1690,
+        "sample_mean_le405": false
+      },
+      "combined": {
+        "mean": 408.3540905727811,
+        "mean95": [
+          405.96256085134615,
+          410.73512336930474
+        ],
+        "cases": 130,
+        "cleared_sources": 1690,
+        "sample_mean_le405": false
+      }
+    },
+    "J": {
+      "v5": {
+        "mean": 406.13632787652864,
+        "mean95": [
+          404.70429995260855,
+          407.5922847989251
+        ],
+        "cases": 390,
+        "cleared_sources": 5070,
+        "sample_mean_le405": false
+      },
+      "simplified": {
+        "mean": 404.7196190779093,
+        "mean95": [
+          403.2995028026479,
+          406.1617539459171
+        ],
+        "cases": 390,
+        "cleared_sources": 5070,
+        "sample_mean_le405": true
+      }
+    }
+  },
+  "paired": {
+    "I": {
+      "simplified_vs_v5": {
+        "saving": 1.3671823201183446,
+        "saving95": [
+          0.7567320374851618,
+          1.9343517747188999
+        ],
+        "wins": 90,
+        "losses": 15,
+        "ties": 25,
+        "worst_slowdown": 19.593970769230793
+      },
+      "combined_vs_v5": {
+        "saving": 2.3546448053254427,
+        "saving95": [
+          1.6248579493935082,
+          3.0486707251332366
+        ],
+        "wins": 116,
+        "losses": 14,
+        "ties": 0,
+        "worst_slowdown": 19.542278000000067
+      },
+      "combined_vs_simplified": {
+        "saving": 0.9874624852070982,
+        "saving95": [
+          0.5175516687721796,
+          1.4645078197631936
+        ],
+        "wins": 119,
+        "losses": 11,
+        "ties": 0,
+        "worst_slowdown": 17.189783999999918
+      }
+    },
+    "J": {
+      "simplified_vs_v5": {
+        "saving": 1.4167087986193296,
+        "saving95": [
+          1.0499789535206119,
+          1.7756552921104174
+        ],
+        "wins": 254,
+        "losses": 41,
+        "ties": 95,
+        "worst_slowdown": 21.72191038461534
+      }
+    }
+  },
+  "conditional_pooled": {
+    "v5": {
+      "mean": 407.2794297519231,
+      "mean95": [
+        406.051697442659,
+        408.5065808971635
+      ],
+      "cases": 520,
+      "cleared_sources": 6760
+    },
+    "simplified": {
+      "mean": 405.875102572929,
+      "mean95": [
+        404.66891304415316,
+        407.09199676985213
+      ],
+      "cases": 520,
+      "cleared_sources": 6760
+    }
+  },
+  "bootstrap_seed": 2026091344,
+  "bootstrap_replicates": 40000
+}

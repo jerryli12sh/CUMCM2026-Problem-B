@@ -1,0 +1,207 @@
+{
+  "rows": [
+    {
+      "epsilon": 0.01,
+      "threshold_m": 57.615491744304244,
+      "area_inner_m2": 10523.404979045776,
+      "area_outer_m2": 3486547.6746180346,
+      "pending_area_m2": 3476024.269638988,
+      "global_ratio_bound": null,
+      "raster_step_m": 0.5,
+      "outer_raster_step_m": 4.0,
+      "max_radius_lower_m": 14.146446609406727,
+      "max_radius_upper_m": 642.1095233459462,
+      "components": [
+        {
+          "center_local_m": [
+            1018.75,
+            -586.25
+          ],
+          "radius_lower_m": 14.146446609406727,
+          "raster_area_m2": 4866.75
+        },
+        {
+          "center_local_m": [
+            1019.25,
+            585.25
+          ],
+          "radius_lower_m": 14.146446609406727,
+          "raster_area_m2": 4866.75
+        },
+        {
+          "center_local_m": [
+            1018.75,
+            -561.75
+          ],
+          "radius_lower_m": 0.14644660940672627,
+          "raster_area_m2": 0.75
+        },
+        {
+          "center_local_m": [
+            1018.75,
+            561.75
+          ],
+          "radius_lower_m": 0.14644660940672627,
+          "raster_area_m2": 0.75
+        }
+      ],
+      "core_area_at_r_m2": {
+        "1": 6964.0,
+        "2": 5589.0,
+        "5": 2539.0,
+        "10": 283.0,
+        "20": 0.0
+      }
+    },
+    {
+      "epsilon": 0.02,
+      "threshold_m": 58.185942157614186,
+      "area_inner_m2": 30618.299845778172,
+      "area_outer_m2": 3571860.2023934503,
+      "pending_area_m2": 3541241.902547672,
+      "global_ratio_bound": null,
+      "raster_step_m": 0.5,
+      "outer_raster_step_m": 4.0,
+      "max_radius_lower_m": 47.08061151193241,
+      "max_radius_upper_m": 653.5210375471956,
+      "components": [
+        {
+          "center_local_m": [
+            1015.25,
+            -590.25
+          ],
+          "radius_lower_m": 47.08061151193241,
+          "raster_area_m2": 14994.5
+        },
+        {
+          "center_local_m": [
+            1016.25,
+            588.75
+          ],
+          "radius_lower_m": 47.08061151193241,
+          "raster_area_m2": 14994.5
+        }
+      ],
+      "core_area_at_r_m2": {
+        "1": 26117.0,
+        "2": 23538.0,
+        "5": 18048.5,
+        "10": 14456.0,
+        "20": 8628.0
+      }
+    },
+    {
+      "epsilon": 0.05,
+      "threshold_m": 59.89729339754402,
+      "area_inner_m2": 95793.40733800933,
+      "area_outer_m2": 3746227.4945921,
+      "pending_area_m2": 3650434.0872540902,
+      "global_ratio_bound": null,
+      "raster_step_m": 0.5,
+      "outer_raster_step_m": 4.0,
+      "max_radius_lower_m": 82.44892241780269,
+      "max_radius_upper_m": 685.6568542494924,
+      "components": [
+        {
+          "center_local_m": [
+            972.25,
+            -635.75
+          ],
+          "radius_lower_m": 82.44892241780269,
+          "raster_area_m2": 47524.5
+        },
+        {
+          "center_local_m": [
+            972.25,
+            635.75
+          ],
+          "radius_lower_m": 82.44892241780269,
+          "raster_area_m2": 47524.5
+        }
+      ],
+      "core_area_at_r_m2": {
+        "1": 90698.0,
+        "2": 87674.0,
+        "5": 78664.0,
+        "10": 66835.5,
+        "20": 52093.5
+      }
+    },
+    {
+      "epsilon": 0.1,
+      "threshold_m": 62.749545464093735,
+      "area_inner_m2": 188682.0016137269,
+      "area_outer_m2": 3811585.788493665,
+      "pending_area_m2": 3622903.786879938,
+      "global_ratio_bound": null,
+      "raster_step_m": 0.5,
+      "outer_raster_step_m": 4.0,
+      "max_radius_lower_m": 148.40800078251962,
+      "max_radius_upper_m": 905.6568542494924,
+      "components": [
+        {
+          "center_local_m": [
+            1014.25,
+            -580.75
+          ],
+          "radius_lower_m": 148.40800078251962,
+          "raster_area_m2": 93943.75
+        },
+        {
+          "center_local_m": [
+            1014.25,
+            580.75
+          ],
+          "radius_lower_m": 148.40800078251962,
+          "raster_area_m2": 93943.75
+        }
+      ],
+      "core_area_at_r_m2": {
+        "1": 183696.5,
+        "2": 180958.5,
+        "5": 173250.0,
+        "10": 161617.0,
+        "20": 140508.0
+      }
+    },
+    {
+      "epsilon": 0.2,
+      "threshold_m": 68.45404959719316,
+      "area_inner_m2": 347426.11004491517,
+      "area_outer_m2": 3906319.3316062433,
+      "pending_area_m2": 3558893.2215613276,
+      "global_ratio_bound": null,
+      "raster_step_m": 0.5,
+      "outer_raster_step_m": 4.0,
+      "max_radius_lower_m": 201.07943794895866,
+      "max_radius_upper_m": 949.6568542494924,
+      "components": [
+        {
+          "center_local_m": [
+            989.25,
+            -598.25
+          ],
+          "radius_lower_m": 201.07943794895866,
+          "raster_area_m2": 173211.75
+        },
+        {
+          "center_local_m": [
+            989.25,
+            598.25
+          ],
+          "radius_lower_m": 201.07943794895866,
+          "raster_area_m2": 173211.75
+        }
+      ],
+      "core_area_at_r_m2": {
+        "1": 340500.0,
+        "2": 336608.5,
+        "5": 325467.0,
+        "10": 308649.5,
+        "20": 278284.5
+      }
+    }
+  ],
+  "interpretation": "fine inner raster fully covered by accepted rectangles; outer upper uses independent conservative coarse raster",
+  "largest_circle_status": "numerical bounds, not exact maximum"
+}

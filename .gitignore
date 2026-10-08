@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.dll
+.DS_Store
+outputs/
+*.parquet
+*.jlog
+*.sha256
+*.sha512
+*.hash
+.env*

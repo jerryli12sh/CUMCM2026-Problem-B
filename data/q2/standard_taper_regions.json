@@ -1,0 +1,84 @@
+{
+  "name": "standard_taper",
+  "model": "taper",
+  "objective": "expected_hard_feasible_diameter",
+  "scenario": {
+    "S": [
+      0.0,
+      0.0
+    ],
+    "theta": 0.0
+  },
+  "best": {
+    "lo": 50.040702890127335,
+    "hi": 50.25070565743385,
+    "geom_lo": 50.11725218115185,
+    "geom_hi": 50.17409136716804,
+    "error_lo": 0.07654929102451331,
+    "error_hi": 0.07661429026580718,
+    "n": 524288,
+    "q": [
+      907.4286886086502,
+      577.0755687227662
+    ],
+    "world": [
+      907.4286886086502,
+      577.0755687227662
+    ],
+    "bins": 131072
+  },
+  "global_lower_m": 0.0,
+  "rows": [
+    {
+      "epsilon": 0.01,
+      "threshold_m": 50.753212714008185,
+      "area_inner_m2": 10498.871084938568,
+      "area_outer_m2": 2750282.2412752607,
+      "pending_area_m2": 2739783.370190322,
+      "global_ratio_bound": null
+    },
+    {
+      "epsilon": 0.02,
+      "threshold_m": 51.25571977058252,
+      "area_inner_m2": 30075.282989538886,
+      "area_outer_m2": 2807999.044958905,
+      "pending_area_m2": 2777923.761969366,
+      "global_ratio_bound": null
+    },
+    {
+      "epsilon": 0.05,
+      "threshold_m": 52.76324094030554,
+      "area_inner_m2": 97141.13592096446,
+      "area_outer_m2": 2918970.7547845645,
+      "pending_area_m2": 2821829.6188636003,
+      "global_ratio_bound": null
+    },
+    {
+      "epsilon": 0.1,
+      "threshold_m": 55.27577622317724,
+      "area_inner_m2": 189938.13699201515,
+      "area_outer_m2": 3047803.139520262,
+      "pending_area_m2": 2857865.0025282465,
+      "global_ratio_bound": null
+    },
+    {
+      "epsilon": 0.2,
+      "threshold_m": 60.300846788920616,
+      "area_inner_m2": 350775.8043870174,
+      "area_outer_m2": 3172369.897867189,
+      "pending_area_m2": 2821594.093480171,
+      "global_ratio_bound": null
+    }
+  ],
+  "F1_bounds": [
+    1495.0022947755253,
+    1495.0030918782254
+  ],
+  "unprocessed_blocks": 0,
+  "budget_limited_development_blocks": 35926,
+  "full_domain_partition": true,
+  "confidence_family": 2299264,
+  "validation_seed": 83016,
+  "validation_status": "simultaneous model-conditional statistical bounds plus float64 geometric enclosures; not interval arithmetic certificate",
+  "seconds": 695.599112033844
+}

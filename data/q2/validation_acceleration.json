@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "batch_cases": 80,
+  "batch_max_difference": 0,
+  "moment_cases": 5,
+  "moment_n_each": 524288,
+  "moments_max_difference": 1.1095835361629725e-10,
+  "source_witness_cases": 2880,
+  "native_witness_cases": 5,
+  "native_witness_n_each": 131072,
+  "native_witness_max_difference": 1.4850343177386094e-12
+}

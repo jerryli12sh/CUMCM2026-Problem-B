@@ -1,0 +1,109 @@
+{
+  "sources": [
+    {
+      "channel": 1,
+      "x": 1304.195165,
+      "y": -363.771787,
+      "radius": 1147.148125,
+      "orientation": null,
+      "cleared": false
+    },
+    {
+      "channel": 2,
+      "x": 1657.678039,
+      "y": 510.046023,
+      "radius": 1232.052311,
+      "orientation": 334.71341381232264,
+      "cleared": false
+    },
+    {
+      "channel": 6,
+      "x": -304.053763,
+      "y": -649.77822,
+      "radius": 1098.505023,
+      "orientation": null,
+      "cleared": false
+    },
+    {
+      "channel": 7,
+      "x": 367.18436,
+      "y": 105.797238,
+      "radius": 1476.485623,
+      "orientation": null,
+      "cleared": false
+    },
+    {
+      "channel": 8,
+      "x": 498.441006,
+      "y": 1257.235254,
+      "radius": 1278.528478,
+      "orientation": 328.79787624177374,
+      "cleared": false
+    },
+    {
+      "channel": 9,
+      "x": -1366.595022,
+      "y": 955.210784,
+      "radius": 1011.036178,
+      "orientation": 201.47147231898037,
+      "cleared": false
+    },
+    {
+      "channel": 10,
+      "x": -756.369894,
+      "y": -802.100187,
+      "radius": 1453.721902,
+      "orientation": null,
+      "cleared": false
+    },
+    {
+      "channel": 11,
+      "x": -1580.748867,
+      "y": 474.958612,
+      "radius": 1332.452091,
+      "orientation": 55.12785512747103,
+      "cleared": false
+    },
+    {
+      "channel": 13,
+      "x": -961.57765,
+      "y": 587.411445,
+      "radius": 1484.061735,
+      "orientation": 128.0693004267884,
+      "cleared": false
+    },
+    {
+      "channel": 15,
+      "x": 662.146797,
+      "y": 1152.363287,
+      "radius": 1054.506174,
+      "orientation": 126.75379526729647,
+      "cleared": false
+    },
+    {
+      "channel": 17,
+      "x": 793.540604,
+      "y": -639.675094,
+      "radius": 1481.667285,
+      "orientation": 40.45690040294565,
+      "cleared": false
+    },
+    {
+      "channel": 19,
+      "x": 802.004734,
+      "y": -1071.886209,
+      "radius": 1215.10188,
+      "orientation": 76.56008899095144,
+      "cleared": false
+    },
+    {
+      "channel": 20,
+      "x": 474.278307,
+      "y": 303.587889,
+      "radius": 1385.753493,
+      "orientation": null,
+      "cleared": false
+    }
+  ],
+  "noise_seed": 2439363503853985576
+}

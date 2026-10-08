@@ -1,0 +1,114 @@
+{
+  "layout": "partial00_m0_r0",
+  "source_mm": [
+    62819,
+    -1798893
+  ],
+  "normal_integer": [
+    -898962,
+    -438027
+  ],
+  "gap_deg": 197.22430262752684,
+  "records": [
+    {
+      "station": 0,
+      "distance_squared_mm": 3239962252210,
+      "dot": -731491810233
+    },
+    {
+      "station": 1,
+      "distance_squared_mm": 4210542352210,
+      "dot": -1675401910233
+    },
+    {
+      "station": 2,
+      "distance_squared_mm": 6785418952210,
+      "dot": -1599389260233
+    },
+    {
+      "station": 3,
+      "distance_squared_mm": 7726928634146,
+      "dot": -961263561537
+    },
+    {
+      "station": 4,
+      "distance_squared_mm": 5984540152210,
+      "dot": -119538160233
+    },
+    {
+      "station": 5,
+      "distance_squared_mm": 2746532752210,
+      "dot": 274686139767
+    },
+    {
+      "station": 6,
+      "distance_squared_mm": 752164282728,
+      "dot": -129869839638
+    },
+    {
+      "station": 7,
+      "distance_squared_mm": 1388739952210,
+      "dot": -942348760233
+    },
+    {
+      "station": 8,
+      "distance_squared_mm": 6770082762920,
+      "dot": -2423281198518
+    },
+    {
+      "station": 9,
+      "distance_squared_mm": 9994598178592,
+      "dot": -2551202124996
+    },
+    {
+      "station": 10,
+      "distance_squared_mm": 12295333584580,
+      "dot": -2202744735354
+    },
+    {
+      "station": 11,
+      "distance_squared_mm": 13190834423633,
+      "dot": -1524163978722
+    },
+    {
+      "station": 12,
+      "distance_squared_mm": 12415078196548,
+      "dot": -552430814298
+    },
+    {
+      "station": 13,
+      "distance_squared_mm": 10014596616581,
+      "dot": 303933493287
+    },
+    {
+      "station": 14,
+      "distance_squared_mm": 6810996400073,
+      "dot": 927439954305
+    },
+    {
+      "station": 15,
+      "distance_squared_mm": 3349100846581,
+      "dot": 1096429502112
+    },
+    {
+      "station": 16,
+      "distance_squared_mm": 1002152833448,
+      "dot": 799217966430
+    },
+    {
+      "station": 17,
+      "distance_squared_mm": 1872366109,
+      "dot": -6479603736
+    },
+    {
+      "station": 18,
+      "distance_squared_mm": 872130629453,
+      "dot": -918598792005
+    },
+    {
+      "station": 19,
+      "distance_squared_mm": 3446134698304,
+      "dot": -1849220714976
+    }
+  ]
+}

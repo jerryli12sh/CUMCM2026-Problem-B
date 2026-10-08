@@ -1,0 +1,98 @@
+{
+  "name": "standard",
+  "scenario": {
+    "S": [
+      0.0,
+      0.0
+    ],
+    "theta": 0.0
+  },
+  "best": {
+    "q": [
+      969.285540597332,
+      497.8286293477912
+    ],
+    "lo": 98.0735680073095,
+    "hi": 98.08661915209876,
+    "nodes": 174,
+    "silent": [
+      98.06319460666735,
+      98.06395585768298
+    ]
+  },
+  "global_lower_m": 97.72770863214542,
+  "F1_bounds": [
+    1495.0022947755253,
+    1495.0030918782254
+  ],
+  "rows": [
+    {
+      "epsilon": 0.01,
+      "threshold_m": 99.06748534361975,
+      "area_inner_m2": 1603.0344185081804,
+      "area_outer_m2": 2036.5687722940545,
+      "pending_area_m2": 433.53435378587415,
+      "global_ratio_bound": 1.0137092819449738
+    },
+    {
+      "epsilon": 0.02,
+      "threshold_m": 100.04835153514074,
+      "area_inner_m2": 4783.9560140646645,
+      "area_outer_m2": 5388.869840645168,
+      "pending_area_m2": 604.9138265805018,
+      "global_ratio_bound": 1.0237460075087854
+    },
+    {
+      "epsilon": 0.05,
+      "threshold_m": 102.9909501097037,
+      "area_inner_m2": 16591.454788225066,
+      "area_outer_m2": 20368.85668426271,
+      "pending_area_m2": 3777.4018960376425,
+      "global_ratio_bound": 1.0538561842002203
+    },
+    {
+      "epsilon": 0.1,
+      "threshold_m": 107.89528106730864,
+      "area_inner_m2": 47455.911371545386,
+      "area_outer_m2": 53500.24508308776,
+      "pending_area_m2": 6044.333711542367,
+      "global_ratio_bound": 1.1040398120192785
+    },
+    {
+      "epsilon": 0.2,
+      "threshold_m": 117.70394298251851,
+      "area_inner_m2": 131284.95634994644,
+      "area_outer_m2": 140489.25562249537,
+      "pending_area_m2": 9204.299272548958,
+      "global_ratio_bound": 1.2044070676573946
+    }
+  ],
+  "evaluated_blocks": 83357,
+  "unprocessed_blocks": 0,
+  "minimum_side_m": 2.0,
+  "seconds": 548.4456119537354,
+  "numeric_status": "float64 geometric enclosures, not outward-rounded interval certification",
+  "full_domain_partition": true,
+  "strict_refinement": {
+    "stages": [
+      {
+        "blocks": 50000,
+        "seconds": 247.6862142086029
+      },
+      {
+        "blocks": 8512,
+        "seconds": 42.03777003288269
+      }
+    ],
+    "levels": [
+      0.01,
+      0.02
+    ],
+    "minimum_side_m": 0.5,
+    "additional_blocks": 8512,
+    "unfinished_refinement_blocks": 0,
+    "seconds": 42.0377721786499,
+    "parent_bounds_preserved": true
+  },
+  "bearing_node_budget": 160
+}

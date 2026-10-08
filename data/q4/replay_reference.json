@@ -1,0 +1,16 @@
+{
+  "evaluation": {
+    "source_count": 13,
+    "cleared_count": 13,
+    "all_cleared": true,
+    "virtual_time_s": 5309.086537,
+    "average_time_s": 408.3912720769231,
+    "operation_counts": {
+      "measure": 214,
+      "switch": 199,
+      "clear_success": 13,
+      "clear_failure": 5,
+      "distance_m": 19800.43268145139
+    }
+  }
+}

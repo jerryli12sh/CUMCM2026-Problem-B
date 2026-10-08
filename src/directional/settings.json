@@ -1,0 +1,33 @@
+{
+  "policy": "OfficialQ4Robot",
+  "route_settings": {
+    "point_mode": "mec",
+    "discovery_weight": 0.0,
+    "approach_fraction": 0.5,
+    "transverse_offset": 90.0,
+    "replan_distance": 100.0,
+    "shared_limit": 0,
+    "minimum_crossing": 15.0,
+    "minimum_gain": 40.0,
+    "gradient_step": 6,
+    "gradient_axes": "dominant",
+    "one_sided": true,
+    "grid_search": true,
+    "grid_count": 6,
+    "extrapolate": false,
+    "probe_mode": "perp",
+    "layout_choice": true,
+    "clear_shift": 0.0,
+    "march": true,
+    "march_steps": 4,
+    "march_span": 38.0,
+    "lateral_gate": 100.0
+  },
+  "config": {
+    "mode": "joint_smart",
+    "ring": 1130,
+    "try_radius": 150,
+    "discovery_gain": 150
+  },
+  "interpretation": "v03 conservative geometry and fallback, with speculative perpendicular 6 m estimates enabled at every discovery station; evaluation only in the official simulator."
+}
